@@ -1,0 +1,4 @@
+rootProject.name = 'jmix-back-2-front-app'
+
+includeBuild 'backend'
+includeBuild 'frontend'
